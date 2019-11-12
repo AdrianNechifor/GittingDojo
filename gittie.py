@@ -1,7 +1,7 @@
 haha
 
 def introduce():
-	print("Hello , I'm Gittie!")
+	print("Hello , I'm Gittie!" * 3)
 <<<<<<< HEAD
 def add(a, b):
 	return a + b
