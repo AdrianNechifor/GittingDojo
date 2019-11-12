@@ -5,3 +5,5 @@ def introduce():
 	print("Hello , I'm not Gittie!")
 def add(a, b):
 	return a + b
+def Shout():
+	print("What are you doing ?!")
